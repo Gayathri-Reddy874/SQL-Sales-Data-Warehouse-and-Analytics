@@ -257,5 +257,5 @@ The `data-warehouse/tests/` folder contains validation scripts run against the S
 
 Data Analyst | SQL | Data Visualization | Business Analytics
 
-[LinkedIn](https://www.linkedin.com/in/mallareddygari-gayathri/) • [GitHub](https://github.com/Gayathri-Reddy874) • [Email](gayathrireddy18125@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mallareddygari-gayathri/) • [GitHub](https://github.com/Gayathri-Reddy874)
 
