@@ -64,11 +64,8 @@ data-warehouse/
 │   ├── source_crm/          # Raw CRM exports (customers, products, sales)
 │   └── source_erp/          # Raw ERP exports (demographics, location, categories)
 ├── docs/
-│   ├── data_architecture.png
-│   ├── data_flow.png
-│   ├── data_integration.png
-│   ├── data_model.png
-│   ├── ETL.png
+│   ├── medallion_architecture_flow.png
+│   ├── preview.png
 │   ├── data_catalog.md      # Field-level documentation for all Gold layer tables
 │   └── naming_conventions.md
 ├── scripts/
