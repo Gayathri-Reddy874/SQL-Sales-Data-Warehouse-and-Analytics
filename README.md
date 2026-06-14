@@ -3,7 +3,6 @@
 [![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![T-SQL](https://img.shields.io/badge/Language-T--SQL-blue?style=flat-square)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference)
 [![Architecture](https://img.shields.io/badge/Architecture-Medallion%20(Bronze%2FSilver%2FGold)-F2A623?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 An end-to-end SQL data analytics project covering the full data lifecycle — from raw, multi-source data ingestion to a clean, production-style **data warehouse**, through to an **SQL analytics and business reporting layer** built on top of it.
 
