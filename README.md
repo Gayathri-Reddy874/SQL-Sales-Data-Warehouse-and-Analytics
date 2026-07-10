@@ -59,7 +59,7 @@ The warehouse follows a **Medallion Architecture** with three progressive layers
 |---|---|
 | **Bronze** | Raw data loaded as-is from CRM and ERP CSV sources into staging tables — no transformations. Loaded via `BULK INSERT` through stored procedures with batch timing and error handling. |
 | **Silver** | Data cleansing, standardization, deduplication, type casting, and normalization to resolve inconsistencies across the two source systems. |
-| **Gold** | Business-ready **star schema** — `dim_customers`, `dim_products`, `fact_sales` - exposed as SQL views and optimized for analytical queries and reporting. |
+| **Gold** | Business-ready **star schema** - `dim_customers`, `dim_products`, `fact_sales` - exposed as SQL views and optimized for analytical queries and reporting. |
 
 ---
 
