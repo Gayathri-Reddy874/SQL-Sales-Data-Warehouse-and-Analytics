@@ -110,7 +110,7 @@ Two independent source systems integrated into a single unified data model:
 
 ### Gold Layer Tables
 
-- **`gold.dim_customers`** — Customer dimension enriched with demographic and geographic data: name, country, gender, marital status, birthdate, account creation date.
+- **`gold.dim_customers`** - Customer dimension enriched with demographic and geographic data: name, country, gender, marital status, birthdate, account creation date.
 - **`gold.dim_products`** — Product dimension with category, subcategory, product line, cost, and maintenance attributes.
 - **`gold.fact_sales`** — Sales fact table capturing order number, product key, customer key, order/ship/due dates, sales amount, quantity, and price.
 
