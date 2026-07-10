@@ -91,7 +91,7 @@ sql-data-warehouse-analytics/
 
 ---
 
-## Part 1 — Data Warehouse
+## Part 1 - Data Warehouse
 
 ### Data Sources
 
