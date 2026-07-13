@@ -106,7 +106,7 @@ Two independent source systems integrated into a single unified data model:
 
 - **Bronze layer**: full-refresh ingestion of raw CSVs via `BULK INSERT`, wrapped in stored procedures with execution-time logging and error handling.
 - **Silver layer**: standardizes inconsistent codes/formats across CRM and ERP (e.g. gender, country names, dates), removes duplicates, and applies business rules (e.g. resolving conflicting gender values between systems).
-- **Gold layer**: SQL views implementing a star schema — surrogate keys generated via `ROW_NUMBER()`, dimension tables enriched by joining cleaned CRM and ERP attributes, and a fact table built by joining transaction data to both dimensions.
+- **Gold layer**: SQL views implementing a star schema - surrogate keys generated via `ROW_NUMBER()`, dimension tables enriched by joining cleaned CRM and ERP attributes, and a fact table built by joining transaction data to both dimensions.
 
 ### Gold Layer Tables
 
