@@ -116,7 +116,7 @@ Two independent source systems integrated into a single unified data model:
 
 ---
 
-## Part 2 — Data Analytics
+## Part 2 - Data Analytics
 
 A set of **14 progressively-built SQL scripts** that answer real business questions using the Gold layer — moving from schema exploration to reusable, production-style reporting views.
 
