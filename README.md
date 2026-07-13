@@ -139,7 +139,7 @@ A set of **14 progressively-built SQL scripts** that answer real business questi
 
 ### Key Analytical Outputs
 
-- **`gold.report_customers`** — A reusable view that segments customers into **VIP / Regular / New** based on lifespan and total spend, and computes age groups, recency (months since last order), average order value (AOV), and average monthly spend.
+- **`gold.report_customers`** - A reusable view that segments customers into **VIP / Regular / New** based on lifespan and total spend, and computes age groups, recency (months since last order), average order value (AOV), and average monthly spend.
 - **`gold.report_products`** — A reusable view capturing product-level revenue segments, order frequency, and performance KPIs for business reporting.
 
 ---
