@@ -160,7 +160,7 @@ This project's analytics layer is designed to answer the kinds of questions a sa
 - Who are the top-performing products and customers by sales, and which are underperforming?
 - How does monthly revenue trend over time, and what does the 3-month moving average look like?
 - Which customers qualify as **VIP** based on RFM-style segmentation, and what share of total revenue do they represent?
-- How does each product's/category's performance compare year-over-year — above or below its historical average?
+- How does each product's/category's performance compare year-over-year - above or below its historical average?
 - What is the average order value (AOV) and average monthly spend by customer segment?
 
 >### Key Findings
