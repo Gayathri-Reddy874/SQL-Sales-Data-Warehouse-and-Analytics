@@ -211,7 +211,7 @@ EXEC silver.load_silver;
 
 ### Part 2 - Run the Analytics Layer
 
-**Option A — Against the warehouse built in Part 1**
+**Option A - Against the warehouse built in Part 1**
 Run `data-analytics/scripts/00` through `13` in order against the Gold schema.
 
 **Option B — Standalone (no warehouse required)**
