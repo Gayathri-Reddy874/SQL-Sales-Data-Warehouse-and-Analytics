@@ -190,7 +190,7 @@ This project's analytics layer is designed to answer the kinds of questions a sa
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (free)
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
-### Part 1 — Build the Data Warehouse
+### Part 1 - Build the Data Warehouse
 
 ```sql
 -- Step 1: Initialize the database and schemas
