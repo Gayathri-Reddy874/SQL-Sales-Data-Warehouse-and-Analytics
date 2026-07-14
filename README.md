@@ -214,7 +214,7 @@ EXEC silver.load_silver;
 **Option A - Against the warehouse built in Part 1**
 Run `data-analytics/scripts/00` through `13` in order against the Gold schema.
 
-**Option B — Standalone (no warehouse required)**
+**Option B - Standalone (no warehouse required)**
 Load `data-analytics/datasets/gold-layer-exports/*.csv` into a fresh database, then run the analytics scripts against those tables.
 
 ---
