@@ -134,7 +134,7 @@ A set of **14 progressively-built SQL scripts** that answer real business questi
 | `09_performance_analysis.sql` | Year-over-year comparison | `LAG()`, above/below average classification |
 | `10_data_segmentation.sql` | Customer & product segmentation | `CASE`, VIP / Regular / New groups |
 | `11_part_to_whole_analysis.sql` | Contribution analysis | Category share of total revenue |
-| `12_report_customers.sql` | Customer reporting view | RFM-style KPIs — recency, AOV, monthly spend, age groups |
+| `12_report_customers.sql` | Customer reporting view | RFM-style KPIs - recency, AOV, monthly spend, age groups |
 | `13_report_products.sql` | Product reporting view | Revenue segments, performance KPIs |
 
 ### Key Analytical Outputs
