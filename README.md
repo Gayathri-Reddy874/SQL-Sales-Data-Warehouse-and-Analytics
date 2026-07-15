@@ -130,7 +130,7 @@ A set of **14 progressively-built SQL scripts** that answer real business questi
 | `05_magnitude_analysis.sql` | Cross-dimension comparison | `GROUP BY`, sales by category/country |
 | `06_ranking_analysis.sql` | Top/bottom N | `RANK()`, `DENSE_RANK()`, `TOP N` |
 | `07_change_over_time_analysis.sql` | Trend analysis | Monthly/yearly sales trends, `DATETRUNC()` |
-| `08_cumulative_analysis.sql` | Running totals | `SUM() OVER()`, `AVG() OVER()` — moving averages |
+| `08_cumulative_analysis.sql` | Running totals | `SUM() OVER()`, `AVG() OVER()` - moving averages |
 | `09_performance_analysis.sql` | Year-over-year comparison | `LAG()`, above/below average classification |
 | `10_data_segmentation.sql` | Customer & product segmentation | `CASE`, VIP / Regular / New groups |
 | `11_part_to_whole_analysis.sql` | Contribution analysis | Category share of total revenue |
